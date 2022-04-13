@@ -2,8 +2,8 @@
 This is toying with Git
 After this training, we want to be able to:
 - [x] git init
-- [ ] git add
-- [ ] git commit
+- [x] git add
+- [x] git commit
 - [ ] git push
 - [ ] git pull
 - [ ] git branch
